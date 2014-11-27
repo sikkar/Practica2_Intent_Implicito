@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Editor Texto</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="guardar">Archivo Guardado</string>
+    <string name="btGuardar">Guardar</string>
+    <string name="guardarExt">Guardado en Carpeta DCIM</string>
+
+</resources>
